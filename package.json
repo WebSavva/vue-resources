@@ -2,7 +2,7 @@
   "name": "extra-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://websavva.github.io/",
+  "homepage": "https://websavva.github.io/vue-resources/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
