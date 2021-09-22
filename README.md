@@ -1,19 +1,10 @@
-# extra-components
+# Vue ToDoList-like app
+>Simple app built with Vue. 
 
-## Project setup
-```
-npm install
-```
+Features:
+* Floated labels for form
+* Resources can be added and removed
+* Tabs are animated
+* Primitive form validation
+* Fully responsive
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
